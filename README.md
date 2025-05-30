@@ -1,2 +1,5 @@
 # png-to-icon
-Convert from png to ico files
+## Usage:
+```
+python png-to-icon.py <input_directory>
+```
